@@ -14,3 +14,5 @@ https://github.com/zhanlong-dw/verification_code
 ##pull 和fetch merge的区别:##
 
 fetch 到local repository  然后merge 到workspace 
+
+添加 hosting providers 代码托管网站GitHub
